@@ -1,0 +1,35 @@
+h1{
+    font-family: 'Rufina', serif;
+    font-size: 5em;
+}
+h2{
+    font-family: 'Sintony', sans-serif;
+    font-size: 2.5em;
+}
+p{
+    font-family: 'Sarabun', sans-serif;
+    font-size: 1em;
+}
+section#intro,#final{
+    background-color: rgb(154, 148, 236);
+}
+section#learn-css,#debug,#name{
+    background-color: rgb(198, 209, 209);
+}
+section#css-libraries,#read,#practice{
+    background-color: white;
+}
+article{
+    border: 0px;
+}
+a{
+    font-family: 'Times New Roman', serif;
+    color: rgb(21, 21, 245);
+}
+a:hover{
+    color: rgb(128, 5, 5);
+}
+ul{
+    font-size: 1.2em;
+    color: rgb(97, 57, 5);
+}
